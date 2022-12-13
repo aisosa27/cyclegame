@@ -1,5 +1,7 @@
 CSE 210 - Cycle Game
 
+-------------------------------------------------------------------------------
+
 Cycle is played according to the following rules:
 
 Players can move up, down, left and right...
@@ -20,6 +22,7 @@ The cycles turn white.
 
 Players keep moving and turning but don't run into each other.
 
+-------------------------------------------------------------------------------
 
 The project folders in Game are organized as follows:
 
@@ -32,5 +35,7 @@ Casting
  Scripting
 
 There are files within them.
+
+-------------------------------------------------------------------------------
 
 Author: Doubra Daunemigha
