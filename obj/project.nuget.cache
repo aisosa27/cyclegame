@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YqFAGiicJqC44ytrYjqjFpAVtTKow2EBfNAqHL5VGxqoUwZd7Cr+KtdysArTk4A5E4q12qFBILTM5WuodJu+Lw==",
+  "success": true,
+  "projectFilePath": "/Users/doubradaunemigha/Desktop/cyclegame/cyclegame.csproj",
+  "expectedPackageFiles": [
+    "/Users/doubradaunemigha/.nuget/packages/raylib-cs/4.0.0.1/raylib-cs.4.0.0.1.nupkg.sha512",
+    "/Users/doubradaunemigha/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
